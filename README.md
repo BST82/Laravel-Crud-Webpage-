@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,49 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Project Image
+
+![Screenshot (504)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/c460a25c-91ed-4ed7-a150-bdea24437f4a)
+
+
+
+![Screenshot (505)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/b6ed695e-54b0-4680-8d22-851a83a3384f)
+
+
+
+![Screenshot (506)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/aec6048e-2c46-41e9-b586-201778f49f43)
+
+
+
+
+![Screenshot (516)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/5a1839ab-faf7-446b-abf8-68b719408c43)
+
+
+
+![Screenshot (508)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/96ac0ccb-94b5-484d-8d5c-5f1d80fb4867)
+
+![Screenshot (509)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/878d14bf-87ed-403a-a4c9-880509f66ce7)
+
+
+
+![Screenshot (511)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/b872aa08-94cc-46e3-8f6d-de210c50fb74)
+
+
+
+![Screenshot (512)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/8e34714c-522b-4aa5-ba0c-0c54fafda42f)
+
+
+![Screenshot (513)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/d571b181-5586-4db2-9ce8-f39c09d42024)
+
+
+
+![Screenshot (514)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/562386e7-a60b-4842-881e-567952a5a909)
+![Screenshot (515)](https://github.com/BST82/Laravel-Crud-Webpage-/assets/86471670/bbafe3d6-7382-471e-a16e-20b9f4928af3)
+
+
+
+
+
+
+
